@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this screening package, please cite it as below."
+title: "WICF door-infiltration screening analysis"
+authors:
+  - family-names: Hu
+    given-names: Han
+    affiliation: "University of Arkansas, Nano Energy and Data-Driven Discovery Laboratory"
+repository-code: "https://github.com/UARK-NED3/wicf-infiltration"
+license: MIT
+version: 0.1.0
+date-released: 2026-08-19
