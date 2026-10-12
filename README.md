@@ -2,6 +2,9 @@
 
 This repository contains a **screening-level**, reproducible analysis for deciding when a walk-in cooler/freezer (WICF) door-open alarm deserves experimental evaluation. It models buoyancy-driven, two-way doorway exchange and the sensible-plus-latent refrigeration load introduced by warmer, more humid air.
 
+Repository scope, evidence, and reuse boundaries are also available in the
+[NED3 resource manifest](.ned3/resource-manifest-v0.1.json).
+
 ## What this is—and is not
 
 - **Decision:** identify a defensible starting range for a *door-open escalation alarm* and the measurements needed before setting an operational alarm.
